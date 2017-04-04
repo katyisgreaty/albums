@@ -17,6 +17,10 @@ const appRoutes: Routes = [
     path: 'marketplace',
     component: MarketplaceComponent
   }
+  // {
+  //   path: 'albums/:id',
+  //   component: AlbumDetailComponent
+  // }
 ];
 
 export const routing: ModuleWithProviders = RouterModule.forRoot(appRoutes);
