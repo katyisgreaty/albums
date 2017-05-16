@@ -1,4 +1,8 @@
 # OnlineStore
+## By Katy Daviscourt and Caitlin Hines, 4.5.17
+
+## Description
+Use Angular 2 to make an online store web page.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
